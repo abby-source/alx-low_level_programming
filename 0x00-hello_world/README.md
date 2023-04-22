@@ -1,0 +1,1 @@
+Preprocessor includes header files and C processors also removes comments and replaces macro name with the code, Compiler generates assembly codes, Assembler converts assemble code into object code, name is used as a string data type, I will use puts to append newlines and printf to formatt output
