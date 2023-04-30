@@ -1,1 +1,1 @@
-My first C Hello World
+My first trial on variables
