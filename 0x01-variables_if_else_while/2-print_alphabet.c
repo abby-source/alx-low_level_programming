@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*main - This program prints alphabet in lowercase followed by a new line
-*Return 0 always (success)
+*main - A program prints alphabet in lowercase followed by a new line
+*Return: Always 0 (success)
 */
 int main(void)
 {
