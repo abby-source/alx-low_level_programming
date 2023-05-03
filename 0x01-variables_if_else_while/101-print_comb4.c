@@ -1,8 +1,8 @@
 #include <unistd.h>
 /**
- * main - A program that prints diffrent combinations of three digits
- * Return: Always 0 (success)
- */
+* main - A program that prints diffrent combinations of three digits
+* Return: Always 0 (success)
+*/
 int main(void)
 {
 	int i, j, k;
